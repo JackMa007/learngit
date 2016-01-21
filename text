@@ -1,0 +1,154 @@
+commit 26c71dc8e294f1350998938b023b6b4d7cca1147
+Merge: 046f5e8 398703d
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 12:04:59 2016 +0800
+
+    merged bug fix 101
+
+commit 398703d1f6b1214db314c390ff3023f937474453
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 12:03:45 2016 +0800
+
+    fix bug 101
+
+commit 046f5e8fe25c9dd3d43426a39f7884337004287b
+Merge: 1e2f8a3 f309716
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:52:20 2016 +0800
+
+    Merge branch 'dev' -m "lala"
+
+commit f309716b444965dd68de3b358ac0c83ae71465f4
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:51:51 2016 +0800
+
+    bai
+
+commit 1e2f8a3c52c68f99d715ce4fa12a0764aa643d76
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:49:35 2016 +0800
+
+    rou
+
+commit 2fefad9c2534947ab3b672b60e1bb022518640ac
+Merge: 7ba1d38 9aefea7
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:24:37 2016 +0800
+
+    gaila
+
+commit 9aefea702edc827e9df032b032356495490a319f
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:21:24 2016 +0800
+
+    ok
+
+commit 7ba1d38d89584fefa8d9edf5fbc05c42c373e2cc
+Merge: 7b136fc a8454ef
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:14:12 2016 +0800
+
+    merge with no-ff
+
+commit a8454ef8d9497c935759cd867e727e2c9a32e00f
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:12:40 2016 +0800
+
+    add merge
+
+commit 7b136fce0739877d7bf280ad64181e6ac96e3e54
+Merge: adc1127 ce4ff2f
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 09:02:57 2016 +0800
+
+    conflict fixed
+
+commit adc1127238eb203cab9ab30b31f9cdf71b3fc7c7
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 08:58:24 2016 +0800
+
+    guai
+
+commit ce4ff2fc9ee12335fba09fb4090e06c08e6991ae
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 08:55:41 2016 +0800
+
+    clear
+
+commit 112fb6fc755639d5223e18fa18d9db588f911f3f
+Author: Jack <ziyiss@msn.cn>
+Date:   Thu Jan 21 08:50:27 2016 +0800
+
+    add gitskills
+
+commit 784b60529852800ba8107b956f2e782dd3cda576
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 21:18:58 2016 +0800
+
+    branch test
+
+commit 0cb179c209e8409529f82549ea9182ca21128ec2
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 20:58:34 2016 +0800
+
+    add rourou.txt
+
+commit e3fe2ca976966e017d46538fff9c0c47826f65f4
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 20:17:31 2016 +0800
+
+    rm baiyi
+
+commit 231d83e208fda6c94a349c29ce75ad20280114e8
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 20:15:03 2016 +0800
+
+    add baiyi
+
+commit 4b263d9e99ae9a0be3c139aac8707a505336830f
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 20:13:07 2016 +0800
+
+    remove readme.txt
+
+commit b318e61613f18cea192921668ece19f3f6c2a4d1
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 20:04:21 2016 +0800
+
+    baiy
+
+commit ef36c10deea294628cf5c74f32a43d3405ce324f
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 19:55:16 2016 +0800
+
+    baiyi
+
+commit d63e6ef6aa8d9d7fb8d60ac937dcbc905ad9a8eb
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 17:35:59 2016 +0800
+
+    git tracks changes
+
+commit 0f71ee9e683ee6669e33eddd7f0c28a7006265f2
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 17:32:52 2016 +0800
+
+    understand how stage works
+
+commit 3e07c932a3a89d2988dc746aa7e1221374f64056
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 17:15:29 2016 +0800
+
+    append GPL
+
+commit 7c3a680e41b0036b0f225a286b5ba7786179004b
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 17:13:00 2016 +0800
+
+    add distributed
+
+commit b248d62b86b7965762ce24947028e6f455d75acf
+Author: Jack <ziyiss@msn.cn>
+Date:   Wed Jan 20 17:02:45 2016 +0800
+
+    wrote a readme file
